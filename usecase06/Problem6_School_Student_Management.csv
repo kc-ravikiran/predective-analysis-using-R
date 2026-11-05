@@ -1,0 +1,16 @@
+StudentID,StudentName,Age,Section,Subject,Score,Grade,Teacher,AttendancePercent
+1,Ravi Kumar,16,10-A,Mathematics,88,A,Mr. Sharma,95
+1,Ravi Kumar,16,10-A,Science,91,A,Mr. Sharma,95
+1,Ravi Kumar,16,10-A,English,84,A,Mr. Sharma,95
+2,Priya Singh,15,10-A,Mathematics,78,B,Ms. Gupta,92
+2,Priya Singh,15,10-A,Science,82,A,Ms. Gupta,92
+2,Priya Singh,15,10-A,English,80,A,Ms. Gupta,92
+3,Amit Verma,16,10-B,Mathematics,92,A+,Mr. Rao,97
+3,Amit Verma,16,10-B,Science,95,A+,Mr. Rao,97
+3,Amit Verma,16,10-B,English,89,A,Mr. Rao,97
+4,Sneha Patel,15,10-B,Mathematics,68,C,Mrs. Iyer,88
+4,Sneha Patel,15,10-B,Science,72,B,Mrs. Iyer,88
+4,Sneha Patel,15,10-B,English,75,B,Mrs. Iyer,88
+5,Karan Mehta,16,10-C,Mathematics,85,A,Mr. Sharma,94
+5,Karan Mehta,16,10-C,Science,87,A,Mr. Sharma,94
+5,Karan Mehta,16,10-C,English,83,A,Mr. Sharma,94
